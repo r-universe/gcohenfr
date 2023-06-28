@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pgca"]
 	path = pgca
 	url = https://git.bioconductor.org/packages/pgca
-	shallow = true
-	registered = true
 [submodule "riv"]
 	path = riv
 	url = https://github.com/cran/riv
-	shallow = true
-	registered = true
