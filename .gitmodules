@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "pgca"]
-	path = pgca
-	url = https://git.bioconductor.org/packages/pgca
 [submodule "riv"]
 	path = riv
 	url = https://github.com/cran/riv
